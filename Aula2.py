@@ -8,6 +8,7 @@ multiplicacao = a * b
 divisao = a / b
 resto = a % b
 #print("A soma é : {}. A subtração é : {}. A Multiplicação é : {}. A divisão é : {}. " .format(soma,subtracao,multiplicacao,divisao) #outra forma de converter a variavel ele print("A soma é: " + str(soma)) #para converter número inteiro em string (str) concatenou
+print("A Soma é: " +str(soma))
 print("A Subtração é: " + str(subtracao))
 print("A multiplicação é :" + str(multiplicacao))
 print("A divisão é: " + str(divisao)) #para converter de float para int, utiliza o int. ex: print(int(divisão))
